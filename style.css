@@ -1,0 +1,136 @@
+.banner{
+    background: url(image/banner.jpg)no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    position: relative;
+    min-height: 40em;
+
+}
+.about1{
+    width: 50%;
+    height: 500px;
+    float: left;
+
+}
+.about2{
+    width: 400px;
+    height: 100px;
+    margin-left: 500px;
+    margin-top: 30px;
+    float: left;
+    color: white;
+}
+.head{
+    color: white;
+    padding-top: 10px;
+    padding-left: 50px;
+    font-size: 8ch
+}
+.head2{
+    padding-top: 150px;
+    padding-left: 50px;
+    font-size: 4em;
+    letter-spacing: 2px;
+    color: #fff;
+    text-transform: capitalize;
+    
+}
+.line li{
+    padding-left: 50px;
+    display: inline;
+
+}
+
+.body2{
+    width: 100%;
+    height: 720px;
+    
+}
+.body2-1{
+    margin-left: 380px;
+    width: 1300px;
+    height: 720px;
+}
+.prod{
+    margin-left: 440px;
+    font-size: 5ch;
+}
+.body3{background: url(image/360_F_359935372_9SsYn70eju1niYdREttipucq0uIlLU9K.jpg)no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    position: relative;
+    min-height: 22em;
+    width: 100%;
+    height: 380px;
+}
+.body3-1{
+    width: 500px;
+    height: 350px;
+    float: left;
+    margin-left: 500px;
+    padding-left: 10px;
+}
+.body3-2{
+    width: 500px;
+    height: 350px;
+    float: left;
+}
+.header{
+    width: 100%;
+    height: 200px;
+    background-color:#666;
+}
+.cont{
+    margin-left: 800px;
+    padding-top: 50px;
+    font-size: 5ch;
+    color: white;
+    font-family:
+}
+.address{
+    width: 500px;
+    height: 250px;
+    margin-left: 400px;
+}
+.map{
+    width: 600px;
+    height: 460px;
+    background-color: bisque;
+    margin-left: 400px;
+}
+.rmap{
+    margin-left: 400px;
+}
+.home2{
+    margin-left: 50px;
+    font-size: x-large;
+    color: white;
+}
+.aboutbody{
+    width: 700px;
+    height: 400px;
+    margin-left: 400px;
+    padding-top: 50px;
+}
+.mission{
+    width: 600px;
+    height: 200px;
+    margin-left: 400px;
+}
+.mission1{
+    width: 130px;
+    height: 180px;
+    background-color: #ee1420;
+    float: left;
+}
+.mission2{
+    width: 400px;
+    height: 200px;
+    margin-left: 140px;
+}
