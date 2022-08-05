@@ -631,10 +631,10 @@ p.text-li {
     color: #fff;
 }
 /* //testimonials */
-.collection-w3layouts {
+.collection-first {
   padding-top: 0em;
 }
-.collection-w3layouts h4 {
+.collection-first h4 {
     font-size: 25px;
     color: #000000;
     text-transform: capitalize;
@@ -1155,14 +1155,14 @@ ul.links li a:hover {
     color: #eee;
 }
 
-.footer-title-w3ls a {
+.footer-title-m31 a {
     font-size: 3em;
     text-transform: capitalize;
     font-weight: 100;
     color: #eee;
 }
 
-.footer-title-w3ls a span {
+.footer-title-m31 a span {
     background: #f7f7f7;
     color: #17181b;
     padding: 1px 11px;
@@ -1444,7 +1444,7 @@ a.move-top span {
     .events-info h4 {
         font-size: 0.85em;
     }
-	.collection-w3layouts {
+	.collection-first {
     margin-bottom: 1em;
 }
 .title-w3 {
@@ -1539,7 +1539,7 @@ a.move-top span {
 	.title-w3 {
     font-size: 1.8em;
 	}
-	.collection-w3layouts h4 {
+	.collection-first h4 {
     font-size: 18px;
 	}
 	.team-left h4, .team-middle h4, .team-right h4 {
